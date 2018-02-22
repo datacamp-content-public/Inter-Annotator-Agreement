@@ -44,3 +44,59 @@ obs_agre
 
 
 
+
+---
+## Cohen's kappa
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: e49ea73d5c
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
+---
+## Fleiss kappa
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: cb041c5364
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
