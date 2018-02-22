@@ -18,16 +18,20 @@ key: 8a5f2c721c
 Calculate  the observed agreement
 
 `@instructions`
-Create a variable (agreements) and assign to it the number of agreements .
-Create another variable (pairs) and  assign to it the number of pairs.
-Then, store the observed agreement in a variable called obs_agre.
+- Create a variable (agreements) and assign to it the number of agreements .
+- Create another variable (pairs) and  assign to it the number of pairs.
+- Then, store the observed agreement in a variable called obs_agre.
+- Print the variable obs_agre
 
 `@hint`
 observed agreement = number of agreements / number of pairs
 
 
 
-
+`@solution`
+```{r}
+obs_agre = agreements / pairs
+```
 
 
 
