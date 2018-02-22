@@ -27,10 +27,17 @@ Calculate  the observed agreement
 observed agreement = number of agreements / number of pairs
 
 
-
+`@sample_code`
+```{r}
+agreements = 50
+pairs = 100
+obs_agre = agreements / pairs
+obs_agre
+```
 `@solution`
 ```{r}
 obs_agre = agreements / pairs
+obs_agre
 ```
 
 
