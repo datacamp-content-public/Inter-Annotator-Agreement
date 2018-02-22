@@ -1,46 +1,35 @@
 ---
-title: Template Chapter 1
-description: This is a template chapter.
----
+title: Annotation evaluation measures
+description: >-
+  This is a template chapter.
 
-## Ex 1.1
+
+---
+## Observed agreement
 
 ```yaml
 type: NormalExercise
 lang: r
 xp: 100
 skills: 1
-key: e7abd6d68b
+key: 8a5f2c721c
 ```
 
-Do some data science.
+Calculate  the observed agreement
 
 `@instructions`
-
+Create a variable (agreements) and assign to it the number of agreements .
+Create another variable (pairs) and  assign to it the number of pairs.
+Then, store the observed agreement in a variable called obs_agre.
 
 `@hint`
+observed agreement = number of agreements / number of pairs
 
 
-`@pre_exercise_code`
 
-```{r}
 
-```
 
-`@sample_code`
 
-```{r}
 
-```
 
-`@solution`
 
-```{r}
-
-```
-
-`@sct`
-
-```{r}
-
-```
